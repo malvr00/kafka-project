@@ -10,3 +10,6 @@ Kafka는 Docker를 통해서 생성하고, 주키퍼는 따로 사용하지 않�
 2. Consumer 프로젝트 2 <br/>
 <br/>
 Producer 프로젝트는 mysql, Consumer 프로젝트는 mongoDB 사용으로 mysql -> mongodb로 카프카를 활용
+
+## Docker 로컬 세팅
+Docker Desktop 방법을 활용하거나 colima 사용하여 구현 진행 중 <br/>
