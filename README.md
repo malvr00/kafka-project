@@ -18,3 +18,11 @@ Docker Desktop || colima <br/>
 - colima Docker CLI 그대로 사용이 가능하고 가볍고 빠른편에 속함.
 <br/>
 해당 프로젝트에서는 colima 채택해서 Docker 환경 구축 후 프로젝트 추가 작업 진행예정.
+
+
+## DB 세팅
+Producer 프로젝트는 mysql 또는 mariadb 사용<br/>
+Consumer 프로젝트는 mongodb 사용.<br/>
+<br/>
+DB 세팅은 Docker 또는 기본 로컬 설치 중 택 1
+ 
