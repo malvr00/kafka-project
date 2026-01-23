@@ -23,7 +23,4 @@ Docker Desktop || colima <br/>
 ## DB 세팅
 Producer 프로젝트는 mysql 또는 mariadb 사용<br/>
 Consumer 프로젝트는 mongodb 사용.<br/>
-<br/>
-DB 세팅은 Docker 또는 기본 로컬 설치 중 택 1
-- 일단 Docker로 설치하지 않고 기존 로컬에 설치되어있는 DB 활용하고 여유가 된다면 docker-compose 사용해서 DB도 Docker에 추가해 볼 예정
  
