@@ -16,8 +16,6 @@ Producer 프로젝트는 mysql, Consumer 프로젝트는 mongoDB 사용으로 my
 Docker Desktop || colima <br/>
 - Docker Desktop은 UI 활용으로 인한 편하게 사용이 가능.
 - colima Docker CLI 그대로 사용이 가능하고 가볍고 빠른편에 속함.
-<br/>
-해당 프로젝트에서는 colima 채택해서 Docker 환경 구축 후 프로젝트 추가 작업 진행예정.
 
 
 ## DB 세팅
