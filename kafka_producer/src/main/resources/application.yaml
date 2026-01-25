@@ -1,3 +1,11 @@
 spring:
   application:
     name: kafka_producer
+  profiles:
+    active: dev
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+        default_batch_fetch_size: 100
+    open-in-view: false
