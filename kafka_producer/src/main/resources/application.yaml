@@ -2,7 +2,7 @@ spring:
   application:
     name: kafka_producer
   profiles:
-    active: dev
+    active: local
   jpa:
     properties:
       hibernate:
