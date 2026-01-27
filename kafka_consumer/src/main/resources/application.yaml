@@ -1,3 +1,5 @@
 spring:
   application:
     name: kafka_consumer
+  profiles:
+    active: dev
