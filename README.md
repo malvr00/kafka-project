@@ -8,5 +8,7 @@ Kafka는 Docker를 통해서 생성하고, 주키퍼는 따로 사용하지 않�
 ## 프로젝트 간단정리 [ 임시 ]
 
 1. Producer 프로젝트 1 <br/>
+- mongodb + kafka
 2. Consumer 프로젝트 2 <br/>
+- mysql + kafka
 <br/>
